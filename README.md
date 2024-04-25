@@ -1,4 +1,4 @@
-# THEME DARK MARU CHILL README
+# THEME DARK MARU CHILL
 
 ## Working with Markdown
 
