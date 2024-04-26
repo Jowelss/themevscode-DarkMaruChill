@@ -3,6 +3,15 @@
   "colors": {
     "editor.background": "#19191f",
     "editor.foreground": "#eeffff",
+    "titleBar.activeBackground": "#19191f",
+    "activityBar.background": "#19191f",
+    "sideBar.background": "#19191f",
+    "sideBarSectionHeader.background": "#19191f",
+    "statusBar.background": "#19191f",
+    "editorGroupHeader.tabsBackground": "#1f1f27",
+    "tab.inactiveBackground": "#1f1f27",
+    "tab.border": "#444447",
+    "list.inactiveSelectionBackground": "#262638",
     "activityBarBadge.background": "#007acc",
     "sideBarTitle.foreground": "#bbbbbb"
   },
@@ -19,7 +28,8 @@
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#43b0c494"
+        "foreground": "#f2ff7cf3"
+        // nameVariable
       }
     },
     {
@@ -40,7 +50,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#b83535"
+        "foreground": "#bb68ff"
         // const
       }
     },
@@ -72,7 +82,8 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#f07178"
+        "foreground": "#ff5861ef"
+        // etiqueta html
       }
     },
     {
@@ -86,13 +97,14 @@
       ],
       "settings": {
         "foreground": "#82AAFF"
+        // traslate transfomr css
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#f76d9b"
+        "foreground": "#e74b4b"
       }
     },
     {
@@ -115,7 +127,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#F78C6C"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -130,7 +142,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#90d87e"
       }
     },
     {
@@ -167,7 +179,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#B2CCD6"
+        "foreground": "#dd9371"
       }
     },
     {
