@@ -21,15 +21,17 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#546E7A"
+        "foreground": "#71777a"
+        // Hecho
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#f2ff7cf3"
+        "foreground": "#66b3ff"
         // nameVariable
+        // Hecho
       }
     },
     {
@@ -50,8 +52,8 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#bb68ff"
-        // const
+        "foreground": "#d11aff"
+        // Hecho
       }
     },
     {
@@ -71,7 +73,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#e2e1d5"
       }
     },
     {
@@ -82,7 +84,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#ff5861ef"
+        "foreground": "#ff6666"
         // etiqueta html
       }
     },
@@ -223,7 +225,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#80ff80"
       }
     },
     {
