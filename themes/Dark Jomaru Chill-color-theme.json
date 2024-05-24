@@ -1,19 +1,7 @@
 {
   "name": "Dark Jomaru Chill",
   "colors": {
-    "editor.background": "#19191f",
-    "editor.foreground": "#eeffff",
-    "titleBar.activeBackground": "#19191f",
-    "activityBar.background": "#19191f",
-    "sideBar.background": "#19191f",
-    "sideBarSectionHeader.background": "#19191f",
-    "statusBar.background": "#19191f",
-    "editorGroupHeader.tabsBackground": "#1f1f27",
-    "tab.inactiveBackground": "#1f1f27",
-    "tab.border": "#444447",
-    "list.inactiveSelectionBackground": "#262638",
-    "activityBarBadge.background": "#007acc",
-    "sideBarTitle.foreground": "#bbbbbb"
+    "editor.background": "#1b1c1f"
   },
   "tokenColors": [
     {
@@ -21,39 +9,39 @@
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#71777a"
-        // Hecho
+        "foreground": "#8284859c"
+        // COMENTARIOS
       }
     },
     {
       "name": "Variables",
       "scope": ["variable", "string constant.other.placeholder"],
       "settings": {
-        "foreground": "#66b3ff"
-        // nameVariable
-        // Hecho
+        "foreground": "#c346ec"
+        // NOMBRE VARIABLE Y PROPIEDADES
       }
     },
     {
       "name": "Colors",
       "scope": ["constant.other.color"],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#0cbb26"
+        // falta
       }
     },
     {
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#571520"
+        // falta
       }
     },
     {
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#d11aff"
-        // Hecho
+        "foreground": "#f6ff74"
       }
     },
     {
@@ -129,7 +117,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ff65ba"
       }
     },
     {
@@ -144,7 +132,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#90d87e"
+        "foreground": "#ffffff"
       }
     },
     {
